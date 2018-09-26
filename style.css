@@ -1,1 +1,13 @@
+table {
+	color: green;
+  font-family: helvetica;
+  font-weight: 600;
+  font-weight: 200;
+  box-sizing: border-box;
+  font-size: 3em;
+  margin: 5px 10px;
+  width: 50%;
+	border: 5px red dashed;
+  float: left;
+}
 
