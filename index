@@ -1,1 +1,30 @@
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>4 Largest Planets/title>
+</head>
+<body>
+	<h1>Table Title</h1>
+	<table>
+		<tr>
+			<th><strong>Jupiter</strong></th>
+			<th><strong>Saturn</strong></th>
+      <th><strong>Uranus</strong></th>
+      <th><strong>Neptune</strong></th>
+		</tr>
+		<tr>
+			<td><em>Row 1</em></td> 
+			<td>attr</td>
+		</tr>
+		<tr>
+			<td><em>Row 2</em>
+			<td>attr</td>
+		</tr>
+		<tr>
+			<td><em>Row 3</em></td>
+			<td>attr</td>
+		</tr>
+	</table>
+  </body>
+  </html>
