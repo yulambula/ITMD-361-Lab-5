@@ -1,13 +1,24 @@
-table {
-	color: green;
-  font-family: helvetica;
-  font-weight: 600;
-  font-weight: 200;
-  box-sizing: border-box;
-  font-size: 3em;
-  margin: 5px 10px;
-  width: 50%;
-	border: 5px red dashed;
-  float: left;
+body {
+	background-color: Blue;
+	font-family: Courier New;
+	font-weight: bold;
+	}
+h1 {
+	text-align: center;
+	color: white;
 }
-
+table {
+	background-color: white;
+}
+thead {
+	background-color: Red;
+}
+tbody {
+	background-color: green;
+}
+tr {
+	text-align: center;
+}
+.attribute {
+	text-align: left;
+}
