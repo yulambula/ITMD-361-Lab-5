@@ -1,0 +1,50 @@
+body {
+	background-color: #000000;
+	font-family: Courier;
+	padding: 5%;
+}
+h1 {
+	text-align: center bottom;
+	color: #009900;
+	font-size: 36px;
+	font-weight: bold;
+	font-stretch: extended;
+}
+table {
+    margin-left:auto; 
+    margin-right:auto;
+		text-align: center;
+		background-color: #FFFFFF;
+		font-size: 16px;
+  }
+thead {
+	font-size: 24px;
+	font-stretch: extended;
+}
+.attribute {
+	text-align: left;
+	font-weight: bold;
+}
+.odd {
+	background-color: #003300;
+	color: #FFFFFF;
+}
+.even {
+	background-color: #009900;
+}
+section {
+	font-style: italic;
+	color: #009900;
+	text-align: center;
+}
+footer {
+	margin-left: auto;
+	color: #009900;
+	font-style: italic;
+}
+ul {
+    list-style-type: none;
+}
+ul li{
+  display: inline-block;
+}
